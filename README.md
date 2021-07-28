@@ -1,1 +1,1 @@
-# pc-kanri
+# ExcelでPC管理台帳
